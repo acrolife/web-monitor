@@ -1,0 +1,19 @@
+
+
+# API keys
+.streamlit/
+
+# Data files
+emails.json
+slots.json
+
+# Virtual environment
+web_monitor_venv/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Dev files
+drafts/
